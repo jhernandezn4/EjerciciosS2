@@ -1,0 +1,12 @@
+D:\PROGRAMACION\UMG\CS\Ejercicios S2\Ejercicio1\Ejercicio1\bin\Debug\netcoreapp3.1\Ejercicio1.exe
+D:\PROGRAMACION\UMG\CS\Ejercicios S2\Ejercicio1\Ejercicio1\bin\Debug\netcoreapp3.1\Ejercicio1.deps.json
+D:\PROGRAMACION\UMG\CS\Ejercicios S2\Ejercicio1\Ejercicio1\bin\Debug\netcoreapp3.1\Ejercicio1.runtimeconfig.json
+D:\PROGRAMACION\UMG\CS\Ejercicios S2\Ejercicio1\Ejercicio1\bin\Debug\netcoreapp3.1\Ejercicio1.runtimeconfig.dev.json
+D:\PROGRAMACION\UMG\CS\Ejercicios S2\Ejercicio1\Ejercicio1\bin\Debug\netcoreapp3.1\Ejercicio1.dll
+D:\PROGRAMACION\UMG\CS\Ejercicios S2\Ejercicio1\Ejercicio1\bin\Debug\netcoreapp3.1\Ejercicio1.pdb
+D:\PROGRAMACION\UMG\CS\Ejercicios S2\Ejercicio1\Ejercicio1\obj\Debug\netcoreapp3.1\Ejercicio1.AssemblyInfoInputs.cache
+D:\PROGRAMACION\UMG\CS\Ejercicios S2\Ejercicio1\Ejercicio1\obj\Debug\netcoreapp3.1\Ejercicio1.AssemblyInfo.cs
+D:\PROGRAMACION\UMG\CS\Ejercicios S2\Ejercicio1\Ejercicio1\obj\Debug\netcoreapp3.1\Ejercicio1.csproj.CoreCompileInputs.cache
+D:\PROGRAMACION\UMG\CS\Ejercicios S2\Ejercicio1\Ejercicio1\obj\Debug\netcoreapp3.1\Ejercicio1.dll
+D:\PROGRAMACION\UMG\CS\Ejercicios S2\Ejercicio1\Ejercicio1\obj\Debug\netcoreapp3.1\Ejercicio1.pdb
+D:\PROGRAMACION\UMG\CS\Ejercicios S2\Ejercicio1\Ejercicio1\obj\Debug\netcoreapp3.1\Ejercicio1.genruntimeconfig.cache
